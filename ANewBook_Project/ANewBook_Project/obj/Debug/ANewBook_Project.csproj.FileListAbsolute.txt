@@ -1,0 +1,10 @@
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\bin\Debug\ANewBook_Project.exe.config
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\bin\Debug\ANewBook_Project.exe
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\bin\Debug\ANewBook_Project.pdb
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\obj\Debug\ANewBook_Project.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\obj\Debug\ANewBook_Project.Form1.resources
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\obj\Debug\ANewBook_Project.Properties.Resources.resources
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\obj\Debug\ANewBook_Project.csproj.GenerateResource.cache
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\obj\Debug\ANewBook_Project.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\obj\Debug\ANewBook_Project.exe
+C:\Users\merve\source\repos\ANewBook_Project\ANewBook_Project\obj\Debug\ANewBook_Project.pdb
